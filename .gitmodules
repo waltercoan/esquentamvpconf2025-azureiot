@@ -1,0 +1,3 @@
+[submodule "azuresphere/azure-sphere-samples"]
+	path = azuresphere/azure-sphere-samples
+	url = https://github.com/Azure/azure-sphere-samples.git
